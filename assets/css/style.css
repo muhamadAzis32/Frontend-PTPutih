@@ -1190,7 +1190,7 @@ header.sticky .logo-menu-wrap {align-items: center !important;}
 
 /*=== Sticky Header 1 ===*/
 header.style1.sticky {
-  background-color: var(--color3);
+  background-color:  rgba(0, 0, 0, 0.75);
   -webkit-box-shadow: 0 0 1.25rem rgba(0,0,0,.1);
   -ms-box-shadow: 0 0 1.25rem rgba(0,0,0,.1);
   -o-box-shadow: 0 0 1.25rem rgba(0,0,0,.1);
