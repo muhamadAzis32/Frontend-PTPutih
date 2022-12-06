@@ -2575,7 +2575,7 @@ span.event-loc i {margin-right: .5rem;}
 }
 .event-grid-info2 {margin-top: 1.875rem;}
 .event-grid-info2 > h3 {
-  font-size: 1.875rem;
+  font-size: 1.600rem;
   font-weight: 700;
 }
 .event-grid-info2 > h3 + p {margin-top: 0.625rem;}
@@ -4125,7 +4125,7 @@ footer .widget > ul {max-width: 50%;}
   height: 13.4375rem;
   left: -0.9375rem;
   width: 2px;
-  border-left: 2px dashed #e5e5e5;
+  /* border-left: 2px dashed #e5e5e5; */
   position: absolute;
   top: 50%;
   -webkit-transform: translateY(-50%);
